@@ -6,7 +6,7 @@ currently building toward doing real research in ML and theoretical CS — not j
 
 ---
 
-## what i'm working on
+## what i'm working on 🚀
 
 - competitive programming (CF ~1500, pushing 1600+)
 - USACO prep (aiming Gold → Platinum)
@@ -22,9 +22,9 @@ long-term goal: study Math + CS/ML at a top university and actually understand t
 ## background
 
 strong base in:
-- linear algebra
-- calculus I–III
-- probability theory
+- linear algebra  
+- calculus I–III  
+- probability theory  
 
 completed MIT 6.042J (Math for Computer Science), which pushed me deeper into proofs, combinatorics, and graph theory.
 
@@ -32,7 +32,7 @@ i like problems that look messy and force me to spend hours thinking deeply on t
 
 ---
 
-## tech
+## tech 🛠
 
 **languages**
 - C++
@@ -62,11 +62,11 @@ also into breaking problems down until they’re painfully simple.
 
 ---
 
-## current targets
+## current targets 🎯
 
 - USACO Platinum  
 - INMO qualification  
-- publish research at a top-tier AI conference (e.g., NeurIPS/ICML level)  
+- publish research at a top-tier AI conference (e.g., NeurIPS/ICML level)
 
 ---
 
