@@ -69,4 +69,4 @@ also into breaking problems down until they’re painfully simple.
 
 ---
 
-if you're into math, algorithms, ML, or CV research and want to build something cool, feel free to reach out.
+if you're into pure math, algorithms, or ML research and want to build something cool, feel free to reach out.
