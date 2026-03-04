@@ -1,16 +1,73 @@
-## Hi there 👋
+# hey, i'm abhinav (nav) 👋
 
-<!--
-**BunnygirlSarah/BunnygirlSarah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+high school student who spends way too much time thinking about math, algorithms, and machine learning.
 
-Here are some ideas to get you started:
+currently building toward doing real research in ML and theoretical CS — not just tutorials and toy projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## what i'm working on
+
+- competitive programming (CF ~1500, pushing 1600+)
+- USACO prep (aiming Gold → Platinum)
+- olympiad math (close to JMO, pushing further)
+- machine learning foundations (math-first approach)
+- preparing for ISEF / IRIS-level research
+- PROMYS (2026)
+
+long-term goal: study Math + CS/ML at a top university and actually understand the theory deeply.
+
+---
+
+## background
+
+strong base in:
+- linear algebra
+- calculus I–III
+- probability theory
+
+completed MIT 6.042J (Math for Computer Science), which pushed me deeper into proofs, combinatorics, and graph theory.
+
+i like problems that look messy but collapse once you find the invariant.
+
+---
+
+## tech
+
+**languages**
+- C++
+- Python
+- JavaScript
+
+**tools**
+- STL
+- NumPy
+- Pandas
+- scikit-learn
+- PyTorch
+- Git
+
+---
+
+## interests
+
+- graph theory  
+- combinatorics  
+- algorithm design  
+- optimization  
+- ML theory  
+- computer vision  
+
+also into breaking problems down until they’re painfully simple.
+
+---
+
+## current targets
+
+- USACO Platinum  
+- INMO qualification  
+- ISEF-level research before 16  
+
+---
+
+if you're into math, algorithms, ML, or CV research and want to build something cool, feel free to reach out.
