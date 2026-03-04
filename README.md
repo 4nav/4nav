@@ -10,7 +10,7 @@ currently building toward doing real research in ML and theoretical CS — not j
 
 - competitive programming (CF ~1500, pushing 1600+)
 - USACO prep (aiming Gold → Platinum)
-- olympiad math (close to JMO, pushing further)
+- olympiad math (close to USAMO, pushing further)
 - machine learning foundations (math-first approach)
 - preparing for research at a top AI conference level
 
