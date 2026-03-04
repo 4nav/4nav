@@ -31,7 +31,7 @@ i’m drawn to problems that demand deep, sustained thinking.
 
 ---
 
-## tech 🛠
+## tech stack 🛠
 
 **languages**
 - C++
