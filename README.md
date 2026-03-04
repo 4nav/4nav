@@ -26,8 +26,7 @@ strong base in:
 - calculus I–III  
 - probability theory  
 
-completed MIT 6.042J (Math for Computer Science), which pushed me deeper into proofs, combinatorics, and graph theory.
-
+completed MIT 6.042J (Math for Computer Science), 6.006 (Algorithms), and 6.036 (Machine Learning), which pushed me deeper into proofs, algorithmic thinking, and ML foundations.
 i’m drawn to problems that demand deep, sustained thinking.
 
 ---
