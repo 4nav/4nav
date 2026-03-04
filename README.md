@@ -52,8 +52,7 @@ i’m drawn to problems that demand deep, sustained thinking.
 
 - graph theory  
 - combinatorics  
-- algorithm design  
-- optimization  
+- algorithm design   
 - ML theory  
 - computer vision  
 
