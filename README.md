@@ -28,7 +28,7 @@ strong base in:
 
 completed MIT 6.042J (Math for Computer Science), which pushed me deeper into proofs, combinatorics, and graph theory.
 
-i like problems that look messy but collapse once you find the invariant.
+i like problems that look messy and force me to spend hours thinking deeply on them.
 
 ---
 
@@ -45,7 +45,7 @@ i like problems that look messy but collapse once you find the invariant.
 - Pandas
 - scikit-learn
 - PyTorch
-- Git
+- NodeJS
 
 ---
 
