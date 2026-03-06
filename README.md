@@ -22,23 +22,23 @@ struct Abhinav {
     };
 
     vector<string> languages = {
-        "C++", "Python", "JavaScript"
+        "C++", "Python", "JavaScript", "C++"
     };
 
     vector<string> tools = {
-        "STL", "NumPy", "Pandas", "scikit-learn", "PyTorch"
+        "STL", "NumPy", "Pandas", "scikit-learn", "PyTorch", "Matplotlib", "NodeJS"
     };
 
     map<string, string> current_goals = {
         {"competitive_programming", "Codeforces ~1500 → aiming 1600+"},
         {"usaco", "training for Gold → Platinum"},
-        {"olympiad_math", "pushing toward USAMO-level problem solving"},
-        {"ml", "math-first machine learning foundations"},
+        {"olympiad_math", "AIME qual, pushing toward USAMO-level problem solving"},
+        {"ml", "Working on KAZE"},
         {"research", "working toward publishable ML research"}
     };
 
     string mindset = "break difficult problems until they become simple";
-    string long_term_goal = "deep work in math + machine learning";
+    string long_term_goal = "deep work in math + machine learning at a top uni";
 };
 ```
 
