@@ -10,38 +10,48 @@ trying to move from **learning ML** → **doing real research**.
 
 
 ```cpp
+```cpp
 #include <bits/stdc++.h>
 using namespace std;
 
-void Abhinav {
+void Abhinav() {
+
     vector<string> interests = {
-        "graph theory";
-        "combinatorics";
-        "algorithm design";
-        "machine learning theory";
-        "computer vision;
-    }
+        "graph theory",
+        "combinatorics",
+        "algorithm design",
+        "machine learning theory",
+        "computer vision"
+    };
 
     vector<string> languages = {
-        "C++", "Python", "JavaScript";
-    }
+        "C++", "Python", "JavaScript"
+    };
 
     vector<string> tools = {
-        "STL", "NumPy", "Pandas", "scikit-learn", "PyTorch", "Matplotlib", "NodeJS";
-    }
+        "STL", "NumPy", "Pandas", "scikit-learn", "PyTorch", "Matplotlib", "NodeJS"
+    };
 
     map<string, string> current_goals = {
-        {"competitive_programming": "Codeforces ~1500 → aiming 1600+"};
-        {"usaco": "training for Gold → Platinum"};
-        {"olympiad_math": "AIME qual, pushing toward USAMO-level problem solving"};
-        {"ml": "Working on KAZE"};
-        {"research": "working toward publishable ML research"};
-        }
-    }
-    int main(){
+        {"competitive_programming", "Codeforces ~1500 -> aiming 1600+"},
+        {"usaco", "training for Gold -> Platinum"},
+        {"olympiad_math", "AIME qual, pushing toward USAMO-level problem solving"},
+        {"ml", "working on KAZE"},
+        {"research", "working toward publishable ML research"}
+    };
+
     string mindset = "break difficult problems until they become simple";
-    string long_term_goal = "deep work in math + machine learning at a top uni";
+    string long_term_goal = "deep work in math + machine learning at a top university";
+
+    cout << "Thanks for reading 😊" << '\n';
+}
+
+int main() {
+    while(age++){
+    Abhinav();
     }
+}
+```
 
 ```
 
