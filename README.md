@@ -14,7 +14,7 @@ trying to move from **learning ML** → **doing real research**.
 #include <bits/stdc++.h>
 using namespace std;
 
-void Abhinav() {
+void abhinav() {
 
     vector<string> interests = {
         "graph theory",
