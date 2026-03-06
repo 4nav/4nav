@@ -13,7 +13,7 @@ trying to move from **learning ML** → **doing real research**.
 #include <bits/stdc++.h>
 using namespace std;
 
-struct Abhinav {
+void Abhinav {
     vector<string> interests = {
         "graph theory";
         "combinatorics";
@@ -37,9 +37,10 @@ struct Abhinav {
         {"ml": "Working on KAZE"};
         {"research": "working toward publishable ML research"};
     }
-
+    int main(){
     string mindset = "break difficult problems until they become simple";
     string long_term_goal = "deep work in math + machine learning at a top uni";
+    }
 }
 ```
 
