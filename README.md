@@ -41,7 +41,7 @@ void about_me() {
         {"research", "working toward publishable ML research"}
     };
 
-    string mindset = "break difficult problems until they become simple";
+    string mindset = "break difficult problems down until they become trivial";
     string long_term_goal = "deep work in math + machine learning";
 
     cout << name << " // high school student obsessed with math, algorithms, and ML\n";
