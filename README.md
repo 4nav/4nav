@@ -2,7 +2,7 @@
 
 high school student who spends way too much time thinking about math, algorithms, and machine learning.
 
-currently building towards doing real research in ML and theoretical CS.
+currently working towards doing real research in ML and theoretical CS.
 
 ---
 
