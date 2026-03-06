@@ -23,11 +23,11 @@ struct Abhinav {
     }
 
     vector<string> languages = {
-        "C++", "Python", "JavaScript", 
+        "C++", "Python", "JavaScript";
     }
 
     vector<string> tools = {
-        "STL", "NumPy", "Pandas", "scikit-learn", "PyTorch", "Matplotlib", "NodeJS"
+        "STL", "NumPy", "Pandas", "scikit-learn", "PyTorch", "Matplotlib", "NodeJS";
     }
 
     map<string, string> current_goals = {
