@@ -1,64 +1,72 @@
 ## hey, i'm abhinav (nav) 👋
 
-high school student who spends most of his time thinking about math, algorithms, and machine learning.
+high school student who spends way too much time thinking about math, algorithms, and machine learning.
 
-trying to move from **learning ML** → **doing actual research**.
+trying to move from **learning ML** → **doing real research**.
 
 ---
 
-## currently focused on
+## current state
 
-```javascript
-function nav2026() {
-  const interests = [
-    "graph theory",
-    "combinatorics",
-    "algorithm design",
-    "machine learning theory",
-    "computer vision"
-  ];
+```cpp
+#include <bits/stdc++.h>
+using namespace std;
 
-  const currentGoals = {
-    competitiveProgramming: "Codeforces ~1500 → pushing 1600+",
-    usaco: "training for Gold → Platinum",
-    olympiadMath: "close to USAMO-level problem solving",
-    machineLearning: "building math-first ML foundations",
-    research: "working toward publishable ML projects"
-  };
+struct Abhinav {
+    vector<string> interests = {
+        "graph theory",
+        "combinatorics",
+        "algorithm design",
+        "machine learning theory",
+        "computer vision"
+    };
 
-  const background = [
-    "Linear Algebra",
-    "Calculus I–III",
-    "Probability Theory",
-    "MIT 6.042J — Math for Computer Science",
-    "MIT 6.006 — Algorithms",
-    "MIT 6.036 — Machine Learning"
-  ];
+    vector<string> languages = {
+        "C++", "Python", "JavaScript"
+    };
 
-  return {
-    mindset: "break hard problems until they become simple",
-    longTermGoal: "deep work in math + ML research"
-  };
-}
+    vector<string> tools = {
+        "STL", "NumPy", "Pandas", "scikit-learn", "PyTorch"
+    };
+
+    map<string, string> current_goals = {
+        {"competitive_programming", "Codeforces ~1500 → aiming 1600+"},
+        {"usaco", "training for Gold → Platinum"},
+        {"olympiad_math", "pushing toward USAMO-level problem solving"},
+        {"ml", "math-first machine learning foundations"},
+        {"research", "working toward publishable ML research"}
+    };
+
+    string mindset = "break difficult problems until they become simple";
+    string long_term_goal = "deep work in math + machine learning";
+};
 ```
 
 ---
 
-## tools i use
+## background
 
-- **languages**: C++, Python, JavaScript  
-- **ML stack**: NumPy, Pandas, scikit-learn, PyTorch  
-- **other**: HTML, CSS, NodeJS  
+strong base in:
+
+- linear algebra  
+- calculus I–III  
+- probability theory  
+
+completed:
+
+- **MIT 6.042J** – Math for Computer Science  
+- **MIT 6.006** – Algorithms  
+- **MIT 6.036** – Machine Learning  
 
 ---
 
 ## current targets
 
-- USACO **Platinum**
+- **USACO Platinum**
 - **INMO qualification**
 - publish ML research at a **top conference level**
-- PROMYS (2026)
+- **PROMYS 2026**
 
 ---
 
-if you're into **math, algorithms, or ML research**, feel free to reach out.
+if you're working on **math, algorithms, or machine learning research**, i'm always open to interesting discussions or collaborations.
