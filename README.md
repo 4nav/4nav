@@ -36,12 +36,13 @@ void Abhinav {
         {"olympiad_math": "AIME qual, pushing toward USAMO-level problem solving"};
         {"ml": "Working on KAZE"};
         {"research": "working toward publishable ML research"};
+        }
     }
     int main(){
     string mindset = "break difficult problems until they become simple";
     string long_term_goal = "deep work in math + machine learning at a top uni";
     }
-}
+
 ```
 
 ---
