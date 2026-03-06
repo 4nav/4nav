@@ -12,7 +12,7 @@ currently working towards doing real research in ML and theoretical CS.
 - USACO prep (aiming Gold → Platinum)
 - olympiad math (close to USAMO, pushing further)
 - machine learning foundations (math-first approach)
-- preparing for publishign research at a top AI conference level
+- preparing for publishing research at a top AI conference level
 
 long-term goal: study Math + CS/ML at a top university and actually understand the theory deeply.
 
