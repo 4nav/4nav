@@ -1,74 +1,64 @@
-# hey, i'm abhinav (nav) 👋
+## hey, i'm abhinav (nav) 👋
 
-high school student who spends way too much time thinking about math, algorithms, and machine learning.
+high school student who spends most of his time thinking about math, algorithms, and machine learning.
 
-currently working towards doing real research in ML and theoretical CS.
-
----
-
-## what i'm working on 🚀
-
-- competitive programming (CF ~1500, trying to hit 1600+)
-- USACO prep (aiming Gold → Platinum)
-- olympiad math (close to USAMO, pushing further)
-- machine learning foundations (math-first approach)
-- preparing for publishing research at a top AI conference level
-
-long-term goal: study Math + CS/ML at a top university and actually understand the theory deeply.
+trying to move from **learning ML** → **doing actual research**.
 
 ---
 
-## background
+## currently focused on
 
-strong base in:
-- linear algebra  
-- calculus I–III  
-- probability theory  
+```javascript
+function nav2026() {
+  const interests = [
+    "graph theory",
+    "combinatorics",
+    "algorithm design",
+    "machine learning theory",
+    "computer vision"
+  ];
 
-completed MIT 6.042J (Math for Computer Science), 6.006 (Algorithms), and 6.036 (Machine Learning), which pushed me deeper into proofs, algorithmic thinking, and ML foundations.
+  const currentGoals = {
+    competitiveProgramming: "Codeforces ~1500 → pushing 1600+",
+    usaco: "training for Gold → Platinum",
+    olympiadMath: "close to USAMO-level problem solving",
+    machineLearning: "building math-first ML foundations",
+    research: "working toward publishable ML projects"
+  };
 
-i’m drawn to problems that demand deep, sustained thinking.
+  const background = [
+    "Linear Algebra",
+    "Calculus I–III",
+    "Probability Theory",
+    "MIT 6.042J — Math for Computer Science",
+    "MIT 6.006 — Algorithms",
+    "MIT 6.036 — Machine Learning"
+  ];
 
----
-
-## tech stack 🛠
-
-**languages**
-- C++
-- Python
-- JavaScript
-- HTML
-- CSS
-
-**tools**
-- STL
-- NumPy
-- Pandas
-- scikit-learn
-- PyTorch
-- NodeJS
-
----
-
-## interests
-
-- graph theory  
-- combinatorics  
-- algorithm design   
-- ML theory  
-- computer vision  
-
-also into breaking problems down until they’re painfully simple.
+  return {
+    mindset: "break hard problems until they become simple",
+    longTermGoal: "deep work in math + ML research"
+  };
+}
+```
 
 ---
 
-## current targets 🎯
+## tools i use
 
-- USACO Platinum  
-- INMO qualification  
-- publish research at a top-tier AI conference (e.g., NeurIPS/ICML level)
-- PROMYS acceptance (2026)
+- **languages**: C++, Python, JavaScript  
+- **ML stack**: NumPy, Pandas, scikit-learn, PyTorch  
+- **other**: HTML, CSS, NodeJS  
 
 ---
 
-if you're into pure math, algorithms, or ML research and want to build something cool, feel free to reach out.
+## current targets
+
+- USACO **Platinum**
+- **INMO qualification**
+- publish ML research at a **top conference level**
+- PROMYS (2026)
+
+---
+
+if you're into **math, algorithms, or ML research**, feel free to reach out.
