@@ -47,6 +47,7 @@ void Abhinav() {
 }
 
 int main() {
+    int age = 15
     while(age++){
     Abhinav();
     }
