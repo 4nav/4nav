@@ -8,11 +8,11 @@ currently building towards doing real research in ML and theoretical CS.
 
 ## what i'm working on 🚀
 
-- competitive programming (CF ~1500, pushing 1600+)
+- competitive programming (CF ~1500, trying to hit 1600+)
 - USACO prep (aiming Gold → Platinum)
 - olympiad math (close to USAMO, pushing further)
 - machine learning foundations (math-first approach)
-- preparing for research at a top AI conference level
+- preparing for publishign research at a top AI conference level
 
 long-term goal: study Math + CS/ML at a top university and actually understand the theory deeply.
 
