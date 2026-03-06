@@ -22,7 +22,7 @@ struct Abhinav {
     };
 
     vector<string> languages = {
-        "C++", "Python", "JavaScript", "C++"
+        "C++", "Python", "JavaScript", 
     };
 
     vector<string> tools = {
