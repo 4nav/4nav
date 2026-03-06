@@ -6,7 +6,8 @@ trying to move from **learning ML** → **doing real research**.
 
 ---
 
-## current state
+#### current stats 🧠
+
 
 ```cpp
 #include <bits/stdc++.h>
@@ -60,7 +61,7 @@ completed:
 
 ---
 
-## current targets
+## current goals🎯
 
 - **USACO Platinum**
 - **INMO qualification**
