@@ -78,7 +78,7 @@ completed:
 
 - **USACO Platinum**
 - **INMO qualification**
-- publish ML research at a **top conference level**
+- **publishing ML research at a top conference level**
 - **PROMYS 2026**
 
 ---
