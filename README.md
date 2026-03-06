@@ -37,6 +37,8 @@ i’m drawn to problems that demand deep, sustained thinking.
 - C++
 - Python
 - JavaScript
+- HTML
+- CSS
 
 **tools**
 - STL
