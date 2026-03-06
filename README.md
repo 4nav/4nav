@@ -10,7 +10,6 @@ trying to move from **learning ML** → **doing real research**.
 
 
 ```cpp
-```cpp
 #include <bits/stdc++.h>
 using namespace std;
 
