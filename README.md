@@ -33,7 +33,7 @@ void about_me() {
         "PyTorch", "Matplotlib", "NodeJS"
     };
 
-    map<string, string> current_goals = {
+    map<string, string> ongoing_work = {
         {"competitive_programming", "Codeforces ~1550 → aiming 1600+"},
         {"usaco", "training for Gold → Platinum"},
         {"olympiad_math", "AIME qual → pushing toward USAMO-level problems"},
