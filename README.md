@@ -30,11 +30,11 @@ struct Abhinav {
     };
 
     map<string, string> current_goals = {
-        {"competitive_programming", "Codeforces ~1500 → aiming 1600+"},
-        {"usaco", "training for Gold → Platinum"},
-        {"olympiad_math", "AIME qual, pushing toward USAMO-level problem solving"},
-        {"ml", "Working on KAZE"},
-        {"research", "working toward publishable ML research"}
+        {"competitive_programming": "Codeforces ~1500 → aiming 1600+"},
+        {"usaco": "training for Gold → Platinum"},
+        {"olympiad_math": "AIME qual, pushing toward USAMO-level problem solving"},
+        {"ml": "Working on KAZE"},
+        {"research": "working toward publishable ML research"}
     };
 
     string mindset = "break difficult problems until they become simple";
