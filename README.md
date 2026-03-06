@@ -8,12 +8,13 @@ trying to move from **learning ML** → **doing real research**.
 
 #### current stats 🧠
 
-
 ```cpp
 #include <bits/stdc++.h>
 using namespace std;
 
-void abhinav() {
+const string name = "Abhinav";
+
+void about_me() {
 
     vector<string> interests = {
         "graph theory",
@@ -28,27 +29,31 @@ void abhinav() {
     };
 
     vector<string> tools = {
-        "STL", "NumPy", "Pandas", "scikit-learn", "PyTorch", "Matplotlib", "NodeJS"
+        "STL", "NumPy", "Pandas", "scikit-learn",
+        "PyTorch", "Matplotlib", "NodeJS"
     };
 
     map<string, string> current_goals = {
-        {"competitive_programming", "Codeforces ~1500 -> aiming 1600+"},
-        {"usaco", "training for Gold -> Platinum"},
-        {"olympiad_math", "AIME qual, pushing toward USAMO-level problem solving"},
-        {"ml", "working on KAZE"},
+        {"competitive_programming", "Codeforces ~1500 → aiming 1600+"},
+        {"usaco", "training for Gold → Platinum"},
+        {"olympiad_math", "AIME qual → pushing toward USAMO-level problems"},
+        {"ml", "building KAZE"},
         {"research", "working toward publishable ML research"}
     };
 
     string mindset = "break difficult problems until they become simple";
-    string long_term_goal = "deep work in math + machine learning at a top university";
+    string long_term_goal = "deep work in math + machine learning";
 
-    cout << "Thanks for reading 😊" << '\n';
+    cout << name << " // high school student obsessed with math, algorithms, and ML\n";
+    cout << "current focus: competitive programming, olympiad math, ML research\n";
+    cout << "mindset: " << mindset << '\n';
+    cout << "goal: " << long_term_goal << '\n';
 }
 
 int main() {
-    int age = 15;
-    while(age++){
-    Abhinav();
+    int age_left = 60;
+    while(age_left--){
+    about_me();
     }
 }
 
