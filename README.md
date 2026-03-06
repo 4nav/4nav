@@ -34,7 +34,7 @@ void about_me() {
     };
 
     map<string, string> current_goals = {
-        {"competitive_programming", "Codeforces ~1500 → aiming 1600+"},
+        {"competitive_programming", "Codeforces ~1550 → aiming 1600+"},
         {"usaco", "training for Gold → Platinum"},
         {"olympiad_math", "AIME qual → pushing toward USAMO-level problems"},
         {"ml", "building KAZE"},
