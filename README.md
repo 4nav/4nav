@@ -51,7 +51,8 @@ void about_me() {
 }
 
 int main() {
-    int age_left = 60;
+    int age = 15;
+    int age_left = 75 - age;
     while(age_left--){
     about_me();
     }
