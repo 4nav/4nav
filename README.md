@@ -1,6 +1,6 @@
 ## hey, i'm abhinav (nav) 👋
 
-high school student who spends way too much time thinking about math, algorithms, and machine learning.
+15 year old high school student who spends way too much time thinking about math, algorithms, and machine learning.
 
 trying to move from **learning ML** → **doing real research**.
 
