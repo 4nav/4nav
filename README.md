@@ -17,7 +17,7 @@ const string name = "Abhinav";
 void about_me() {
 
     vector<string> interests = {
-        "graph theory",
+        "econometrics",
         "combinatorics",
         "algorithm design",
         "machine learning theory",
