@@ -38,7 +38,7 @@ void about_me() {
         {"usaco", "training for Gold → Platinum"},
         {"olympiad_math", "AIME qual → pushing toward USAMO-level problems"},
         {"ml", "building KAZE"},
-        {"research", "working toward publishable ML research"}
+        {"research", "working toward publishable ML + Econ research"}
     };
 
     string mindset = "break difficult problems down until they become trivial";
