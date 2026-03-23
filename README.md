@@ -30,7 +30,7 @@ void about_me() {
 
     vector<string> tools = {
         "STL", "NumPy", "Pandas", "scikit-learn",
-        "PyTorch", "Matplotlib", "NodeJS"
+        "PyTorch", "Matplotlib", "NodeJS", "R"
     };
 
     map<string, string> ongoing_work = {
