@@ -74,7 +74,8 @@ completed:
 
 - **MIT 6.042J** – Math for Computer Science  
 - **MIT 6.006** – Algorithms  
-- **MIT 6.036** – Machine Learning  
+- **MIT 6.036** – Machine Learning
+- Doing **MIT 14.31** - Data Analysis for Econometrics
 
 ---
 
