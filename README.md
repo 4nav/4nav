@@ -42,7 +42,7 @@ void about_me() {
     };
 
     string mindset = "break difficult problems down until they become trivial";
-    string long_term_goal = "deep work in math + machine learning";
+    string long_term_goal = "mathematical machine learning and quantitative modeling";
 
     cout << name << " // high school student obsessed with math, algorithms, and ML\n";
     cout << "current focus: competitive programming, olympiad math, ML research\n";
