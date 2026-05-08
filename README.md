@@ -1,91 +1,32 @@
-## hey, i'm abhinav (nav) 👋
-
-15 year old high school student who spends way too much time thinking about math, algorithms, and machine learning.
-
-trying to do research with **real impact**.
+## hey, i'm Abhinav 👋
+15, delhi. i spend most of my time on math, algorithms, and ML
 
 ---
 
-#### current stats 🧠
-
+#### what i'm working on
 ```cpp
-#include <bits/stdc++.h>
-using namespace std;
-
-const string name = "Abhinav";
-
-void about_me() {
-
-    vector<string> interests = {
-        "econometrics",
-        "combinatorics",
-        "algorithm design",
-        "machine learning theory",
-        "computer vision"
-    };
-
-    vector<string> languages = {
-        "C++", "Python", "JavaScript"
-    };
-
-    vector<string> tools = {
-        "STL", "NumPy", "Pandas", "scikit-learn",
-        "PyTorch", "Matplotlib", "NodeJS", "R"
-    };
-
-    map<string, string> ongoing_work = {
-        {"competitive_programming", "Codeforces ~1550 → aiming 1600+"},
-        {"usaco", "training for Gold → Platinum"},
-        {"olympiad_math", "AIME qual → pushing toward USAMO-level problems"},
-        {"ml", "building KAZE"},
-        {"research", "working toward publishable ML + Econ research"}
-    };
-
-    string mindset = "break difficult problems down until they become trivial";
-    string long_term_goal = "mathematical machine learning and quantitative modeling";
-
-    cout << name << " // high school student obsessed with math, algorithms, and ML\n";
-    cout << "current focus: competitive programming, olympiad math, ML research\n";
-    cout << "mindset: " << mindset << '\n';
-    cout << "goal: " << long_term_goal << '\n';
-}
-
-int main() {
-    int years_left_in_school = 2;
-    while(years--){
-    about_me();
-    }
-}
-
-
+map<string, string> ongoing_work = {
+    {"competitive_programming", "CF ~1650,USACO Gold → pushing Platinum, aiming for IOI 2027"},
+    {"olympiad_math",           "RMO qual, targeting INMO"},
+    {"ml_research",             "KAZE -> predicting dust mineral composition from satellite data(working on publishing)"},
+    {"this_summer",             "software engineering intern @ [redacted] + ML research"}
+};
 ```
 
 ---
 
-## background
-
-strong base in:
-
-- linear algebra  
-- calculus I–III  
-- probability theory  
-
-completed:
-
-- **MIT 6.042J** – Math for Computer Science  
-- **MIT 6.006** – Algorithms  
-- **MIT 6.036** – Machine Learning
-- Doing **MIT 14.31** - Data Analysis for Econometrics
+#### background
+- linear algebra, calc I–III, probability, abstract algebra, discrete math
+- MIT OCW: 6.042J, 6.006, 6.036 — currently doing 14.310x (econometrics), Stanford CS229
+- languages: C++, Python, JS | ML: PyTorch, NumPy, Pandas
 
 ---
 
-## current goals🎯
+#### what i'm finding interesting
+ML-econ: automated mechanism design, learned auctions, incentive compatibility. also getting into causal inference lately, feels like the more rigorous way to actually answer empirical questions rather than just finding correlations. doing 14.310x and CS229 to fill in the gaps.
 
-- **USACO Platinum**
-- **INMO qualification**
-- **publishing ML research at a top conference level**
-- **PROMYS 2026**
+KAZE started because i wanted to understand how dust storms move. ended up building a three-head neural net pipeline ingesting MODIS, EMIT, AERONET, and ERA5 data. working on getting it published.
 
 ---
 
-if you're working on **math, algorithms, or machine learning research**, i'm always open to interesting discussions or collaborations.
+if you're working on something in this space, open to talking.
