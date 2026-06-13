@@ -6,7 +6,7 @@
 #### what i'm working on
 ```cpp
 map<string, string> ongoing_work = {
-    {"competitive_programming", "CF ~1650,USACO Gold → pushing Platinum, aiming for IOI 2027"},
+    {"competitive_programming", "CF ~1650,USACO Gold → pushing Platinum, aiming for IOI 2027", "Content author @USACO.guide"},
     {"olympiad_math",           "RMO qual, targeting INMO"},
     {"ml_research",             "KAZE -> predicting dust mineral composition from satellite data(working on publishing)"},
     {"this_summer",             "software engineering intern @ [redacted] + ML research"}
