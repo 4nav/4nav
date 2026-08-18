@@ -55,7 +55,7 @@ machine learning, and economics.
     Maybe building something useless is only useless if
     you already knew it was useless.
 
-→ <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">open the full notes</a>
+→ <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">read more</a>
 </details>
 </pre>
 
