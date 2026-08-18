@@ -1,32 +1,64 @@
-## hey, i'm Abhinav 👋
-15, delhi. i spend most of my time on math, algorithms, and ML
+<div align="center">
 
----
+<img src="./assets/header.svg" width="100%" alt="Abhinav">
 
-#### what i'm working on
-```cpp
-map<string, string> ongoing_work = {
-    {"competitive_programming", "CF ~1650,USACO Gold → pushing Platinum, aiming for IOI 2027", "Content author @USACO.guide"},
-    {"olympiad_math",           "RMO qual, targeting INMO"},
-    {"ml_research",             "KAZE -> predicting dust mineral composition from satellite data(working on publishing)"},
-    {"this_summer",             "software engineering intern @ [redacted] + ML research"}
-};
-```
+<div>
+  <kbd>MATH</kbd>
+  <kbd>CS</kbd>
+  <kbd>ML</kbd>
+  <kbd>ECON</kbd>
+</div>
 
----
+<div>
+  <a href="https://4nav.github.io">website</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:4nav.dev@gmail.com">email</a>
+</div>
 
-#### background
-- linear algebra, calc I–III, probability, abstract algebra, discrete math
-- MIT OCW: 6.042J, 6.006, 6.036 — currently doing 14.310x (econometrics), Stanford CS229
-- languages: C++, Python, JS | ML: PyTorch, NumPy, Pandas
+</div>
 
----
+### lately
 
-#### what i'm finding interesting
-ML-econ: automated mechanism design, learned auctions, incentive compatibility. also getting into causal inference lately, feels like the more rigorous way to actually answer empirical questions rather than just finding correlations. doing 14.310x and CS229 to fill in the gaps.
+trying to understand things I probably don't need to.
 
-KAZE started because i wanted to understand how dust storms move. ended up building a three-head neural net pipeline ingesting MODIS, EMIT, AERONET, and ERA5 data. working on getting it published.
+currently somewhere between mathematics, computer science,
+machine learning, and economics.
 
----
+<div align="center">
 
-if you're working on something in this space, open to talking.
+<h3>things i like</h3>
+
+<p>
+  <code>math</code> · <code>pokemon</code> · <code>machine learning</code> ·
+  <code>video games</code> · <code>economics</code> ·
+  <code>competitive programming</code> · <code>philosophy</code> · <code>building useless things</code>
+</p>
+
+</div>
+
+### somewhere on my computer
+
+<pre>
+├── projects/
+├── inbox/
+├── side-quests/
+<details><summary><code>└─unsolved/</code></summary>
+    things I've been thinking about lately.
+
+    Sometimes I can explain exactly why something works
+    without feeling like I understand why it should work.
+    
+    How has the Common App survived this long if so much
+    of its security depends on everyone agreeing not to be funny?
+    
+    [unfinished thought]
+    Maybe building something useless is only useless if
+    you already knew it was useless.
+
+→ <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">open the full notes</a>
+</details>
+</pre>
+
+<p align="center">
+  <a href="mailto:4nav.dev@gmail.com">reaching out</a> is left as an exercise to the reader.
+</p>
