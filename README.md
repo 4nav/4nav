@@ -43,7 +43,7 @@ machine learning, and economics.
 ├── inbox/
 ├── side-quests/
 <details><summary><code>└─unsolved/</code></summary>
-    things I've been thinking about lately.
+    stuff I've been thinking about lately.
 
     Sometimes I can explain exactly why something works
     without feeling like I understand why it should work.
